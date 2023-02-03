@@ -6,7 +6,7 @@
 
 Here are some quick things about me:
 
-- 🌱 I’m currently learning **Rust/GO/PYTHON**
+- 🌱 I’m currently learning **Rust/Go/Python**
 
 - 📫 How to reach me **diwang839639311@gmail.com**
 
